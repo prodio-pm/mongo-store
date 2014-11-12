@@ -1,0 +1,34 @@
+{
+  "name": "prodio-mongo-store",
+  "version": "0.0.1",
+  "description": "A MongoDB adapter for prodio-stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "keywords": [
+    "MongoDB",
+    "Prodio",
+    "Store"
+  ],
+  "author": "Jeremy Darling <jeremy.darling@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "mongodb": "^1.4.19"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:prodio-pm/mongo-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prodio-pm/mongo-store/issues"
+  },
+  "homepage": "https://github.com/prodio-pm/mongo-store"
+}
