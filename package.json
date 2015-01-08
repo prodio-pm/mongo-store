@@ -1,6 +1,6 @@
 {
   "name": "prodio-mongo-store",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A MongoDB adapter for prodio-stores",
   "main": "index.js",
   "scripts": {
